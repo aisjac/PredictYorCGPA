@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/profileItemId"
+            android:title="Profile"/>
+<!--            android:icon="@drawable/pro_1"/>-->
+        <item android:id="@+id/cgpaCalculationId"
+            android:title="CGPA Calculation"/>
+        <item android:id="@+id/cgpaPreditionId"
+            android:title="CGPA Prediction"/>
+        <item android:id="@+id/allSemisterItemId"
+            android:title="All Semister"/>
+        <item android:id="@+id/subjectPlanningItemId"
+            android:title="Subject Planning"/>
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/logout_id"
+            android:title="Log Out"/>
+    </group>
+
+</menu>

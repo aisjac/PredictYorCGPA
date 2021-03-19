@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465772117489",
+    "project_id": "predictcgpa-e3522",
+    "storage_bucket": "predictcgpa-e3522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465772117489:android:1f6ce604c6f664c84ed850",
+        "android_client_info": {
+          "package_name": "com.example.predictcgpa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465772117489-r66mo94urg4qct0bcuklmi9b8fbia43e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqKsTHg2ymSMXBQ1fHJYaG4xCr9McNWCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465772117489-r66mo94urg4qct0bcuklmi9b8fbia43e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

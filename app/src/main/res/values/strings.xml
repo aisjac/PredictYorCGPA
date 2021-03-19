@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PredictCGPA</string>
+
+    <string name="otp_second_page">
+         Enter The Verification Code That We Send In Your Mobile Number
+    </string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="agree_text">I have read and agree to share my Personal Identifiable Information and other Information</string>
+    <string name="otp_page">
+        We will send a OTP for Varification Code To Your Given Mobile Number
+    </string>
+
+    <string-array name="cgpa">
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="credit">
+        <item>3 credit</item>
+        <item>1 credit</item>
+        <item>0 credit</item>
+    </string-array>
+</resources>
